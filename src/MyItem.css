@@ -1,0 +1,11 @@
+.hello {
+  color: white;
+  background-color: rgb(0, 153, 255);
+  font-size: 20px;
+  border-radius: 50px;
+  margin: 15px;
+}
+
+.errorMessage {
+  color: red;
+}
